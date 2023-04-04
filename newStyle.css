@@ -1,0 +1,59 @@
+#bgpic{
+    width: 100%;
+    height: 100%;
+    background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(https://fashionista.com/.image/t_share/MTM5NDU0OTMzODExMzQwNDUy/kl1_0420jpg.jpg);
+    background-size: cover;
+    background-position: center;
+}
+#first{
+    text-align: center;
+    color: darkgreen;
+}
+
+#second{
+    color: darkblue;
+    text-align: center;
+}
+
+#third{
+    size: 90px;
+    text-align: center;
+    color: midnightblue;
+}
+
+#ok{
+    size: 40px;
+    text-align: center;
+
+}
+
+.tbl{
+    text-align: left;
+}
+
+.allThem{
+    display: flex;
+}
+
+.box{
+    flex: 1;
+}
+
+.shirts {
+        color: darkgreen;
+        font-family: Arial, Helvetica, sans-serif;
+        align-items: center;
+}
+
+.bodyy{
+    background-color: lightgray;
+}
+
+.link{
+    border: 3px solid black;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+}

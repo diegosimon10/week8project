@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../html1project"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cssweek8"
+	}
+}
